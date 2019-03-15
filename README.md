@@ -24,13 +24,20 @@ Then, you'll be tasked with defining and training an RNN to generate a new scrip
 1. Clone the repository and navigate to the downloaded folder.
 	```	
 	git clone https://github.com/shyamStarwalt/TV_script.git
+	```
+2. Download and Install Anaconda [from here](https://www.anaconda.com/)
+
+3. Install the above packages mentioned in the Prerequisites (Anaconda Prompt)
+
+4. Open the cloned repository and navigate to
+	```
 	cd Tv_script
 	```
-2. Open the TV_script_generation.ipynb
+5. Open the TV_script_generation.ipynb
 	```
 	jupyter notebook TV_script_generation.ipynb	
 	```
-3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the getting started to download them.
+6. Read and follow the instructions!  
 
 ## Project Information
 
