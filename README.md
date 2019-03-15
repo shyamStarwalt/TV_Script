@@ -120,4 +120,10 @@ jerry: so?
 
 jerry:(still pulling) oh, i don't think i can
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* The data comes from Udacity.
