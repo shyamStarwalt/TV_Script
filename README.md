@@ -7,7 +7,7 @@ The data is already provided for you in ./data/Seinfeld_Scripts.txt and you're e
 As a first step, we'll load in this data and look at some samples.
 Then, you'll be tasked with defining and training an RNN to generate a new script!
 
-<img src = '/seinfeld.jpg' width=500px>
+<img src = '/seinfeld.jpg' width=300px>
 
 ## Prerequisites
 
